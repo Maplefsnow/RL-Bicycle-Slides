@@ -1,0 +1,18 @@
+{
+  "name": "rlbicycle-slides",
+  "version": "1.0.0",
+  "description": "Learning to Ride: Bicycle RL Control Presentation",
+  "type": "module",
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.53.0",
+    "@slidev/theme-seriph": "^0.28.1"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.48.0"
+  }
+}
