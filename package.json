@@ -9,10 +9,10 @@
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "^52.14.1",
-    "@slidev/theme-seriph": "^0.28.1"
+    "@slidev/cli": "latest",
+    "@slidev/theme-seriph": "latest"
   },
   "devDependencies": {
-    "playwright-chromium": "^1.48.0"
+    "playwright-chromium": "latest"
   }
 }
